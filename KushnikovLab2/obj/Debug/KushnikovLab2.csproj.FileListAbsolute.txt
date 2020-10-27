@@ -1,0 +1,11 @@
+C:\Users\Олег\source\repos\KushnikovLab2\KushnikovLab2\bin\Debug\KushnikovLab2.exe.config
+C:\Users\Олег\source\repos\KushnikovLab2\KushnikovLab2\bin\Debug\KushnikovLab2.exe
+C:\Users\Олег\source\repos\KushnikovLab2\KushnikovLab2\bin\Debug\KushnikovLab2.pdb
+C:\Users\Олег\source\repos\KushnikovLab2\KushnikovLab2\obj\Debug\KushnikovLab2.csprojAssemblyReference.cache
+C:\Users\Олег\source\repos\KushnikovLab2\KushnikovLab2\obj\Debug\KushnikovLab2.Form1.resources
+C:\Users\Олег\source\repos\KushnikovLab2\KushnikovLab2\obj\Debug\KushnikovLab2.GraphVisualizer.resources
+C:\Users\Олег\source\repos\KushnikovLab2\KushnikovLab2\obj\Debug\KushnikovLab2.Properties.Resources.resources
+C:\Users\Олег\source\repos\KushnikovLab2\KushnikovLab2\obj\Debug\KushnikovLab2.csproj.GenerateResource.cache
+C:\Users\Олег\source\repos\KushnikovLab2\KushnikovLab2\obj\Debug\KushnikovLab2.csproj.CoreCompileInputs.cache
+C:\Users\Олег\source\repos\KushnikovLab2\KushnikovLab2\obj\Debug\KushnikovLab2.exe
+C:\Users\Олег\source\repos\KushnikovLab2\KushnikovLab2\obj\Debug\KushnikovLab2.pdb
